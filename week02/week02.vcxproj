@@ -140,16 +140,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="app01.cpp" />
-    <ClCompile Include="baverage.cpp" />
+    <ClCompile Include="beverage.cpp" />
     <ClCompile Include="company.cpp" />
     <ClCompile Include="receipt.cpp" />
-    <ClCompile Include="week02.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="week02.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="baverage.h" />
+    <ClInclude Include="beverage.h" />
     <ClInclude Include="company.h" />
     <ClInclude Include="receipt.h" />
   </ItemGroup>

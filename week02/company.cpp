@@ -8,6 +8,6 @@ Company::~Company()
 }
 void Company::print() const
 {
-	cout << "회사명 : " << name << '\n';
-	cout << "연락처 : " << tel << '\n';
+	cout << "영수증: " << name << '\n';
+	cout << "총 금액 : " << tel << '\n';
 }
